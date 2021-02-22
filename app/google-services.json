@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931188068979",
+    "project_id": "missatgeriaaj",
+    "storage_bucket": "missatgeriaaj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931188068979:android:6df16b70c211742c5f1006",
+        "android_client_info": {
+          "package_name": "com.example.missatgeria_aj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931188068979-vc22rh7a8c35u14396vvgu4gnna8fdle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxdr4UnMcf4AcgVRJpB5gxUtSq2A7c0gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931188068979-vc22rh7a8c35u14396vvgu4gnna8fdle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
